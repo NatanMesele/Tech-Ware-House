@@ -1,4 +1,4 @@
-### TECH WARE HOUSE TRADING PLC
+## TECH WARE HOUSE TRADING PLC
 
 ## ![image link](https://github.com/NatanMesele/Tech-Ware-House/blob/main/img/1.png)
 
@@ -10,41 +10,35 @@ Established in Ethiopia in 2017 and incorporated with ZBA importer in the same y
 
 # OUR VALUES
 
-```python
 The company upholds the following values as a guideline to its operation and business transactions:
+
 - Commitment
-- Customer Value
-- Teamwork and Collaboration
-- Professionalism
-- Flexibility / Adaptability
-- Social Responsibility
-```
+
+* Customer Value
+* Teamwork and Collaboration
+* Professionalism
+* Flexibility / Adaptability
+* Social Responsibility
 
 # Mission Statements
 
-```python
 To help Customers build a reliable, secure, manageable and flexible IT Infrastructure that establishes a foundation for Clients to meet their business objectives.
-```
 
 # Vision
 
-```python
+Our Visions are Lound And Clear
+
 - To progress into a leading IT and Telecommunication Systems Integrator in The Middle East &Africa, supporting progressive organizations in the region and consolidates our regional leadership.
 - Continue improving our ability in Consult, Design, Implement, Install, After Sale Support & Customer Care to enhance our customer‟s experience and satisfaction to make it a joyful and fruitful experience.
 - Empowering our ability to reach even far markets to the whole Africa by partnering with reliable partners across the world to ensure our services are globally served in a high-quality standard all over the markets.
-```
 
 # Objectives
 
-```python
 Our objectives are to assist clients with various implementations of their projects, and we have confidence in our ability to generate the consensus and commitments necessary to succeed. We are prepared to stand behind our recommendations and to assist our clients with obtaining appropriate approvals to proceed.
-```
 
 # Our Expertise
 
-```python
 Tech Warehouse Trading: Security Solutions is a full-service systems integrator specializing in Access Control, Life Safety, Fire Alarm, `CCTV`, Mass Notification Systems, Commercial Doors, Locksmith Services, Alarm Monitoring and Security Gates. We design, install and maintain customized security systems that integrate physical security devices, electronic technology, and information `(IT)` systems with operational systems such as building automation and human resources. This convergent approach streamlines management and increases capabilities. As an independent systems integrator, we remain vendor-neutral and clearly focused on providing the right solution for each client, whether they need a complete turnkey solution, technical services or consulting services. Let us help safeguard your personal and profession assets with the latest and most reliable security solutions technologies available. You need a company that can make quick decisions and has a can-do attitude. When it comes to minimizing your company‟s risk and maximizing your budget, Tehc Warehouse Trading Solutions will provide the exceptional service and reliability you deserve. Your company needs a “trusted advisor” that can recommend the latest in solutions and technologies.)
-```
 
 # some of the services we give are
 
