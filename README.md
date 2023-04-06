@@ -1,6 +1,6 @@
 ### TECH WARE HOUSE TRADING PLC
 
-## ![image link](https://github.com/NatanMesele/Tech-Ware-House/blob/main/img/3.png)
+## ![image link](https://github.com/NatanMesele/Tech-Ware-House/blob/main/img/1.png)
 
 # INTRODUCTION
 
