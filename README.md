@@ -13,12 +13,11 @@ Established in Ethiopia in 2017 and incorporated with ZBA importer in the same y
 The company upholds the following values as a guideline to its operation and business transactions:
 
 - Commitment
-
-* Customer Value
-* Teamwork and Collaboration
-* Professionalism
-* Flexibility / Adaptability
-* Social Responsibility
+- Customer Value
+- Teamwork and Collaboration
+- Professionalism
+- Flexibility / Adaptability
+- Social Responsibility
 
 # Mission Statements
 
