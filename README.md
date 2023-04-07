@@ -55,7 +55,9 @@ Tech Warehouse Trading: Security Solutions is a full-service systems integrator 
 
 # ![image link](https://github.com/NatanMesele/Tech-Ware-House/blob/main/img/9.png)
 
-# [Check our web site for detail info](https://github.com/NatanMesele/Tech-Ware-House) OR
+# [Check our web site for detail info](https://github.com/NatanMesele/Tech-Ware-House)
+
+## OR
 
 ```python
 CONTACT US TROUGH OUR PHONE +2519 13387270 or +2519 11185681
@@ -67,6 +69,4 @@ COME TO OUR OFFICE LOCATED AT KAZANCHIS NEXT TO THE OLD MAIN OFFICE OF ZEMEN BAN
 
 # OR
 
-```python
-[USE THIS GOOGLE MAP](https://goo.gl/maps/i5BFyFKUpi6V17bYA)
-```
+## [USE THIS GOOGLE MAP](https://goo.gl/maps/i5BFyFKUpi6V17bYA)
