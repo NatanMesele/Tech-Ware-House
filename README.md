@@ -55,4 +55,11 @@ Tech Warehouse Trading: Security Solutions is a full-service systems integrator 
 
 # ![image link](https://github.com/NatanMesele/Tech-Ware-House/blob/main/img/9.png)
 
-# [Check our web site for detail info](https://github.com/NatanMesele/Tech-Ware-House)
+# [Check our web site for detail info](https://github.com/NatanMesele/Tech-Ware-House) OR
+
+```python
+
+# CONTACT US TROUGH OUR PHONE  +25113387270 & +251911185681 OR
+```
+
+# [COME TO OUR OFFICE](https://goo.gl/maps/i5BFyFKUpi6V17bYA)
