@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,700');
+@import url("https://fonts.googleapis.com/css?family=Metal+Mania");
+
+@font-face {
+  font-family: "Booter - Zero Zero";
+  src: url("Fonts/Booter - Zero Zero.woff") format("woff"),
+    url("Fonts/Booter - Zero Zero.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "spartan", sans-serif;
+}
+body {
+  background-color: gray;
+  width: 100%;
+}
+h1 {
+  font-size: 54px;
+  line-height: 94px;
+  color: #39ac2d;
+}
+
+h2 {
+  font-size: 58px;
+  line-height: 94px;
+  color: #000000;
+}
+
+h4 {
+  font-size: 30px;
+  color: #000000;
+}
+
+h6 {
+  font-weight: 800;
+  font-size: 20px;
+}
+
+p {
+  font-size: 20px;
+  color: #373d5c;
+  margin: 1px 0 10px 0;
+}
+button {
+  font-size: 25px;
+  line-height: 64px;
+  color: #1b60eb;
+  margin: 1px 0 10px 0;
+}
+/*Header Start */
+#header {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2px 80px;
+  background: #f1e3e3;
+  box-shadow: 0 55px 65px rgba(0, 0, 0, 0.6);
+  z-index: 999;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+#header img{
+  float: left;
+  margin-left:-80px;
+  height: 80px;
+}
+#navbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#navbar li {
+  list-style: none;
+  padding: 0 20px;
+  position: relative;
+}
+
+#navbar li a {
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
+  color: #1a1a1a;
+  transition: 0.3s ease;
+}
+
+#navbar li a:hover,
+#navbar li a.active {
+  color: #088178;
+}
+
+#navbar li a.active::after,
+#navbar li a:hover::after {
+  content: "";
+  width: 30%;
+  height: 2px;
+  background: #088178;
+  position: absolute;
+  bottom: -4px;
+  left: 20px;
+}
+#introduction{
+  color: black;
+  font-size: 20px;
+  font-weight: 600;
+}
+#introduction span{
+  padding: 20px 20px 20px 20px;
+    font-size: 30px;
+      color: black;
+}
+#introduction h1,h2,p{
+  padding: 20px 20px 20px 20px;
+}
+#introduction .star{
+color: black;
+padding-left: 20px;
+padding-bottom: 20px;
+padding-top: 20px;
+}
